@@ -19,6 +19,18 @@ I am passionate about building automated, scalable, and reliable cloud infrastru
 
 ---
 
+---
+
+## 🏅 Certifications
+- Red Hat Certified Engineer (RHCE)
+- Red Hat Certified System Administrator (RHCSA®)
+- Cloud Computing from  NPTEL Online Certification
+- Introduction to Programming Using Python from Coding Ninjas
+
+---
+
+
+
 ## 💻 Featured Projects
 
 ### 1. [Python Automation Scripts](https://github.com/bhushan-yadava/python_automation)
@@ -45,7 +57,7 @@ Configured Prometheus and Grafana for monitoring applications and infrastructure
 
 ## 📫 Contact Me
 - **LinkedIn:** [linkedin.com/in/bhushanyadav](https://www.linkedin.com/in/bhushanyadav)  
-- **Email:** your_email@example.com  
+- **Email:** byadava999@gmail.com  
 
 ---
 
