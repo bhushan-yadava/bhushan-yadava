@@ -29,6 +29,14 @@ I am passionate about building automated, scalable, and reliable cloud infrastru
 
 ---
 
+---
+
+## 🌟 Achievements
+- Deployed 10+ automated cloud infrastructures for personal projects  
+- Reduced deployment time by 40% using CI/CD pipelines  
+- Built monitoring dashboards for real-time insights using Prometheus & Grafana
+
+---
 
 
 ## 💻 Featured Projects
@@ -57,9 +65,10 @@ Configured Prometheus and Grafana for monitoring applications and infrastructure
 
 ## 📫 Contact Me
 - **LinkedIn:** [linkedin.com/in/bhushanyadav](https://www.linkedin.com/in/bhushanyadav)  
-- **Email:** byadava999@gmail.com  
+- **Website:** https://bhushan-yadava.github.io/portfolio/
+- **Email:** byadava999@gmail.com
 
 ---
 
 ## ⚡ Fun Fact
-I love automating tasks that save time and make complex systems easier to manage.
+I enjoy automating repetitive tasks, experimenting with cloud infrastructure, and exploring new DevOps tools. Outside work, I love solving logic puzzles and contributing to open-source projects.
