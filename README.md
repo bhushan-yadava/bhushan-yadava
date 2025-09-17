@@ -2,9 +2,7 @@
 
 **DevOps & Cloud Engineer | CI/CD | Terraform | AWS | Kubernetes | Open to Opportunities**
 
-🌐 [Portfolio](https://bhushan-yadava.github.io/portfolio/)  |  💼 [LinkedIn](https://www.linkedin.com/in/bhushanyadav) |  
-🧱 [LeetCode](https://leetcode.com/u/bhushanyadav/)   |  📧 byadava999@gmail.com
-📄 [Naukri Profile](https://www.naukri.com/code360/profile/7f227f75-31cf-4bf0-bdae-5e9e46e95abc) |  
+🌐 [Portfolio](https://bhushan-yadava.github.io/portfolio/)  |  💼 [LinkedIn](https://www.linkedin.com/in/bhushanyadav) |  🧱 [LeetCode](https://leetcode.com/u/bhushanyadav/)   |  📧 byadava999@gmail.com | 📄 [Naukri Profile](https://www.naukri.com/code360/profile/7f227f75-31cf-4bf0-bdae-5e9e46e95abc) |  
 
 ---
 
